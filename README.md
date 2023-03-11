@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sevak995&theme=onedark&title=Commits,Repositories&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://github.com/sevak995/sevak995/blob/output/github-contribution-grid-snake.svg)
