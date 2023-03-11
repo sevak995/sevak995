@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sevak995&theme=onedark&title=Commits,Repositories&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevak995/sevak995/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/sevak995/sevak995/output/github-contribution-grid-snake-light.svg">
+</picture>
